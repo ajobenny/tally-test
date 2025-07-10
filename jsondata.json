@@ -1,0 +1,36 @@
+{
+    "ledgers": [
+        {
+            "ledname": "Axis", 
+            "ledclsbal": "2,07,400.00"
+        }, 
+        {
+            "ledname": "Cash", 
+            "ledclsbal": ""
+        }, 
+        {
+            "ledname": "Expenses", 
+            "ledclsbal": "7,000.00"
+        }, 
+        {
+            "ledname": "HDFC", 
+            "ledclsbal": "2,14,450.00"
+        }, 
+        {
+            "ledname": "HDFC 2", 
+            "ledclsbal": ""
+        }, 
+        {
+            "ledname": "Incomes", 
+            "ledclsbal": "2,500.00"
+        }, 
+        {
+            "ledname": "Party A", 
+            "ledclsbal": "29,550.00"
+        }, 
+        {
+            "ledname": "Profit & Loss A/c", 
+            "ledclsbal": "22,500.00"
+        }
+    ]
+}
